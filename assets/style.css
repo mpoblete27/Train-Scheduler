@@ -1,0 +1,9 @@
+table {
+    border: 1px solid blue;
+    width: 100%;
+}
+
+.data {
+    border: 1px solid red;
+    width: 100%;
+}
